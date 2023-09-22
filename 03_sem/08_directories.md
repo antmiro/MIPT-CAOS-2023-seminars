@@ -1,0 +1,2 @@
+- Структура директорий, dir entries
+- opendir, closedir, readdir

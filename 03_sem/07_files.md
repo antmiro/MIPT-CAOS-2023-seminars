@@ -1,0 +1,4 @@
+- виды файлов
+- разрешения
+- read, write, open, creat, close, lseek, увеличение файла через lseek+write
+- stat & stat64
